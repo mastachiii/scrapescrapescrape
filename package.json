@@ -1,0 +1,11 @@
+{
+  "name": "scrapescrapescrape",
+  "version": "1.0.0",
+  "description": "takes a bunch of links, filter it and serve to json server for top-shoppingcart project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
